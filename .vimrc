@@ -1,0 +1,12 @@
+syntax enable
+set t_Co=256
+set number
+set hlsearch
+set incsearch
+set nowrap
+set laststatus=2
+set showmode
+set showcmd
+set modeline
+set ruler
+set title
